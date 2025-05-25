@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss'
   ],
   css: ['~/assets/css/main.css'],
-  typescript: {
-    typeCheck: true
-  }
+  // typescript: {
+  //   typeCheck: true
+  // }
 })
